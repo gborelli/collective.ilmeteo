@@ -1,0 +1,6 @@
+*.pyc
+collective.mrwiggin.egg-info/
+dist/
+*.mo
+._*
+
